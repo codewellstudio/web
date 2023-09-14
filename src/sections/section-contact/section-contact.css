@@ -1,0 +1,19 @@
+.section.section-contact p {
+  padding: 15px 45px 45px 45px;
+  text-align: center;
+}
+.section.section-contact a {
+  text-decoration: none;
+  padding-bottom: 6px;
+  font-weight: 500;
+  color: #24283B;
+  border-bottom: 3px solid rgba(30, 34, 51, 0.2);
+}
+.section.section-contact a:hover {
+  border-bottom: 3px solid salmon;
+}
+@media(max-width: 656px) {
+  .section.section-contact p {
+    padding: 15px 30px 30px 30px;
+  }
+}
