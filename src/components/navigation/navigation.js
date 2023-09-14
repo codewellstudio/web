@@ -15,7 +15,7 @@ function Navigation() {
           Home
         </Link>
         <HashLink to="/#work" className="item">
-          Work we do
+          Projects
         </HashLink>
         <Link to="/about" className="item">
           About us
