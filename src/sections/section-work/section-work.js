@@ -15,7 +15,7 @@ import "./section-work.css";
 function SectionWork() {
   return (
     <div id="work" className="section section-work">
-      <h2>Projects I worked on</h2>
+      <h2>Projects we worked on</h2>
 
       <div className="project">
         <a
@@ -172,7 +172,7 @@ function SectionWork() {
         <div className="project-description">
           <h3>Movieo</h3>
           <p>
-            My friends and I love movies, but finding great ones to watch is
+            We love movies, but finding great ones to watch is
             usually a hassle. We had been searching for a simple and
             well-designed movie-browsing interface, yet we couldn't find one.
             Therefore, we decided to create one ourselves.

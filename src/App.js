@@ -7,8 +7,8 @@ import {
 import Navigation from './components/navigation/navigation'
 import Footer from './components/footer/footer'
 import SectionIntro from './sections/section-intro/section-intro'
-import SectionTestimonials from './sections/section-testimonials/section-testimonials'
-import SectionShowcase from './sections/section-showcase/section-showcase'
+// import SectionTestimonials from './sections/section-testimonials/section-testimonials'
+// import SectionShowcase from './sections/section-showcase/section-showcase'
 import SectionHowIWork from './sections/section-how-i-work/section-how-i-work'
 import SectionContact from './sections/section-contact/section-contact'
 import SectionWork from './sections/section-work/section-work'
@@ -30,9 +30,9 @@ function App() {
         <Switch>
           <Route exact path="/">
             <SectionIntro />
-            <SectionTestimonials />
+            {/* <SectionTestimonials /> */}
             <SectionWork />
-            <SectionShowcase />
+            {/* <SectionShowcase /> */}
             <SectionHowIWork />
             <SectionContact />
           </Route>

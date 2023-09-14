@@ -1,23 +1,31 @@
-import React from 'react'
-import profileImg from '../../images/profile.webp'
-import profileImgJpg from '../../images/profile.jpg'
-import SocialLinks from '../../components/social-links/social-links'
-import './section-intro.css'
+import React from "react";
+// import profileImg from '../../images/profile.webp'
+// import profileImgJpg from '../../images/profile.jpg'
+// import logoImgSvg from "../../images/logo.svg";
+// import SocialLinks from '../../components/social-links/social-links'
+import "./section-intro.css";
 
 function SectionIntro() {
   return (
     <div className="section section-intro">
       <div className="profile">
-        <div className="profile-picture">
+        {/* <div className="profile-picture">
           <picture>
             <source srcSet={profileImg} type="image/webp" alt="Sinisa Mikulic" />
             <img src={profileImgJpg} alt="Sinisa Mikulic" />
           </picture>
           <SocialLinks />
-        </div>
+        </div> */}
         <div className="profile-content">
-          <h1 className="headline">We are a team of proven web development expert specialized in frontend.</h1>
-          <h3 className="subheadline">Whether you're an early stage startup or an established company - we will provide you with technical and business expertise you need to succeed.</h3>
+          <h1 className="headline">
+            We are a team of proven web development expert specialized in
+            frontend.
+          </h1>
+          <h3 className="subheadline">
+            Whether you're an early stage startup or an established company - we
+            will provide you with technical and business expertise you need to
+            succeed.
+          </h3>
         </div>
       </div>
       <div className="technologies">
