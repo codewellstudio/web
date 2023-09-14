@@ -58,9 +58,9 @@ function SectionMovieo() {
         After our initial success, we spent the next year working on design, 
         features and onboarding in our spare time.
       </p>
-      <p>
+      {/* <p>
         Here is the difference between the initial and the current version:
-      </p>
+      </p> */}
       <img style={{ width: '100%', margin: '0 auto' }} src="https://images.squarespace-cdn.com/content/v1/5b5b57a1f8370a099b9bba36/1533517445946-UZ1CG3VH0X2V5AVMTWD4/ke17ZwdGBToddI8pDm48kJvX6Ce1WJe9N7NoB6qyRLZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIz615k9Q-H4uBXSKj4LYLTnk66cYZsmgY-1L6IoSdyCUKMshLAGzx4R3EDFOm1kBS/movieo-old.jpg?format=750w" alt="Movieo Case Study" />
       <p>
         We used Movieo as a platform for experimenting with different technologies, 
@@ -75,8 +75,8 @@ function SectionMovieo() {
         still have many returning users. The automated scripts keep movies up to date.
       </p>
       <p>
-        Today, in 2020, <b>Movieo is used by more than 100,000 people every month</b>. 
-        Even though we haven’t promoted it in over two years now, 
+        Today, in 2023, <b>Movieo is used by more than 100,000 people every month</b>. 
+        Even though we haven’t promoted it in over four years now, 
         the numbers are still slowly but steadily rising.
       </p>
     </div>

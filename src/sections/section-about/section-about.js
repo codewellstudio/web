@@ -28,7 +28,7 @@ function SectionAbout() {
         <a href="https://github.com/smikulic" target="_blank" rel="noopener noreferrer">Github portfolio</a>,&nbsp; 
         <a href="https://medium.com/@sinisa.mikulic" target="_blank" rel="noopener noreferrer">Medium articles</a>&nbsp; 
         or just check out my&nbsp; 
-        <Link to="/#work">Case Studies</Link> directly.
+        <Link to="/#projects">Case Studies</Link> directly.
       </p>
     </div>
   );

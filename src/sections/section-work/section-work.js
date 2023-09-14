@@ -14,7 +14,7 @@ import "./section-work.css";
 
 function SectionWork() {
   return (
-    <div id="work" className="section section-work">
+    <div id="projects" className="section section-work">
       <h2>Projects we worked on</h2>
 
       <div className="project">

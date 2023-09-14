@@ -29,8 +29,8 @@ function SectionGlean() {
         insights often overlooked by finance teams and budget owners.
       </p>
       <p>
-        When I joined the team was in their pre-revenue stage with seed funding
-        round, and my roles was to:
+        At the start of the engagement the team was in their pre-revenue stage with seed funding
+        round, and the goal was to:
         <ul>
           <li>improve development team feature delivery speed</li>
           <li>increase estimation accuracy</li>
@@ -39,15 +39,14 @@ function SectionGlean() {
       </p>
       <p className="prominent">
         <b>
-          Steps I took or strongly pushed the team in order to achieve these
-          expectations
+          Steps that were taken to achieve these expectations
         </b>
       </p>
-      <b>1. Added key features towards our product stability and value</b>
+      <b>1. Added key features towards product stability and value</b>
       <p>
         Payment processing
-        <br />- enabled our <b>revenue stream</b> and Plaid integration
-        <br />- added <b>International payments</b> functionality
+        <br />- enabled <b>revenue stream</b> and Plaid integration
+        <br />- added <b>International payments</b>
         <div className="section-img-two-column">
           <div className="section-img">
             <picture className="section-img-center">
@@ -71,7 +70,7 @@ function SectionGlean() {
           </div>
         </div>
         New Homepage dashboard and vendor spend comparison
-        <br />- it gave our users more actionable invoice and vendor analysis
+        <br />- it gave users more actionable invoice and vendor analysis
         <div className="section-img-two-column">
           <div className="section-img">
             <picture className="section-img-center">
@@ -95,15 +94,15 @@ function SectionGlean() {
           </div>
         </div>
         More granular approach to building components
-        <br />- increased our development velocity and cross-team understanding
+        <br />- increased the development velocity and cross-team understanding
         of the code that reduced "knowledge silos"
       </p>
       <b>2. Changed team communication</b>
       <p>
         By having weekly team sync we managed to establish certain engineering
-        standards that helped out our code review process significantly.
+        standards which helped our code review process significantly.
         <br />
-        We started documeting our best practices and created a technical roadmap
+        We started documeting best practices and created a technical roadmap
         that would guide our decision making process and ensure code quality.
       </p>
       <b>3. Pushed for engineers to own product feature discovery process</b>
