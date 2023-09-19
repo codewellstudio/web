@@ -2,7 +2,7 @@ import React from "react";
 // import profileImg from '../../images/profile.webp'
 // import profileImgJpg from '../../images/profile.jpg'
 // import logoImgSvg from "../../images/logo.svg";
-// import SocialLinks from '../../components/social-links/social-links'
+// import SocialLinks from "../../components/social-links/social-links";
 import "./section-intro.css";
 
 function SectionIntro() {
@@ -18,7 +18,7 @@ function SectionIntro() {
         </div> */}
         <div className="profile-content">
           <h1 className="headline">
-            We are a team of proven web development expert specialized in
+            We are a team of proven web development experts specialized in
             frontend.
           </h1>
           <h3 className="subheadline">

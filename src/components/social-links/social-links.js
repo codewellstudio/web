@@ -1,28 +1,40 @@
-import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope } from '@fortawesome/free-regular-svg-icons'
+import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 import {
   faGithub,
-  faInstagram,
+  // faInstagram,
   faLinkedinIn,
-} from '@fortawesome/free-brands-svg-icons'
-import './social-links.css'
+} from "@fortawesome/free-brands-svg-icons";
+import "./social-links.css";
 
 function SocialLinks() {
   return (
     <div className="social-links">
-      <a href="mailto:sinisa@codewell.studio" target="_blank" rel="noopener noreferrer">
+      <a
+        href="mailto:sinisa@codewell.studio"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <FontAwesomeIcon icon={faEnvelope} />
       </a>
-      <a href="https://github.com/smikulic/" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://github.com/codewellstudio/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <FontAwesomeIcon icon={faGithub} />
       </a>
-      <a href="https://www.linkedin.com/in/sinisamikulic/" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://www.linkedin.com/company/code-well-studio"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <FontAwesomeIcon icon={faLinkedinIn} />
       </a>
-      <a href="https://www.instagram.com/sinisamikulic/" target="_blank" rel="noopener noreferrer">
+      {/* <a href="https://www.instagram.com/sinisamikulic/" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faInstagram} />
-      </a>
+      </a> */}
     </div>
   );
 }
