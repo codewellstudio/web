@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEye } from "@fortawesome/free-regular-svg-icons";
-import creditKarmaProjectImg from "../../images/credit-karma-project.webp";
-import creditKarmaProjectImgJpg from "../../images/credit-karma-project.jpg";
+// import creditKarmaProjectImg from "../../images/credit-karma-project.webp";
+// import creditKarmaProjectImgJpg from "../../images/credit-karma-project.jpg";
 import gleanProjectImg from "../../images/glean-project.webp";
 import gleanProjectImgJpg from "../../images/glean-project.jpg";
 import solarisbankProjectImg from "../../images/solarisbank-project.webp";
@@ -17,7 +17,7 @@ function SectionWork() {
     <div id="projects" className="section section-work">
       <h2>Projects we worked on</h2>
 
-      <div className="project">
+      {/* <div className="project">
         <a
           className="project-image"
           href="https://www.creditkarma.com/"
@@ -65,7 +65,7 @@ function SectionWork() {
         </div>
       </div>
 
-      <hr />
+      <hr /> */}
 
       <div className="project">
         <a
@@ -172,10 +172,10 @@ function SectionWork() {
         <div className="project-description">
           <h3>Movieo</h3>
           <p>
-            We love movies, but finding great ones to watch is
-            usually a hassle. We had been searching for a simple and
-            well-designed movie-browsing interface, yet we couldn't find one.
-            Therefore, we decided to create one ourselves.
+            We love movies, but finding great ones to watch is usually a hassle.
+            We had been searching for a simple and well-designed movie-browsing
+            interface, yet we couldn't find one. Therefore, we decided to create
+            one ourselves.
           </p>
           <div>
             <Link to="/movieo-case-study">
