@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ff033297780d39322a213647f5898af",
+    "revision": "c7d503a1ce4fe6aeab23ab6e58622029",
     "url": "/index.html"
   },
   {
-    "revision": "884062812ce1b9dfbc64",
+    "revision": "a1bc36c991dce09d0573",
     "url": "/static/css/main.08468b40.chunk.css"
   },
   {
-    "revision": "e10ce1683f81e52042d2",
-    "url": "/static/js/2.1265c185.chunk.js"
+    "revision": "fc592714562ddb538cfa",
+    "url": "/static/js/2.b0bf5548.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/static/js/2.1265c185.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b0bf5548.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "884062812ce1b9dfbc64",
-    "url": "/static/js/main.3a1bd92d.chunk.js"
+    "revision": "a1bc36c991dce09d0573",
+    "url": "/static/js/main.ac9ee30b.chunk.js"
   },
   {
     "revision": "922c46902b87d706df89",
     "url": "/static/js/runtime-main.d89cee0a.js"
-  },
-  {
-    "revision": "955965d8352207746b95def76970da92",
-    "url": "/static/media/credit-karma-project.955965d8.webp"
-  },
-  {
-    "revision": "bc0a37536d2037f7f63f406a3c6162ba",
-    "url": "/static/media/credit-karma-project.bc0a3753.jpg"
   },
   {
     "revision": "88fd2e9acd7fe77413a1161108fee112",
